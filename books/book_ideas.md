@@ -9,3 +9,4 @@
 - [x] RxSwift by tutorials
 - [ ] Mastering git
 - [x] Care and feeding of developers
+- [ ] Read the new book of JK Rowling
